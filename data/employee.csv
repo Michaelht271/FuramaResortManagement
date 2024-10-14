@@ -1,0 +1,11 @@
+Employee ID,Full Name,Birthday,Sex,Citizen Identification,Phone Number,Email,Academic Standard,Position,Salary
+EM-0001,John Doe,01/01/1980,Male,123456789012,0123456789,john.doe@example.com,Bachelor,Manager,5000
+EM-0002,Jane Smith,15/05/1990,Female,098765432112,0987654321,jane.smith@example.com,Master,HR,4500
+EM-0003,Peter Johnson,20/07/1985,Male,012312312345,0901234567,peter.johnson@example.com,PhD,Developer,5500
+EM-0004,Emily Davis,30/03/1978,Female,045678912345,09887654321,emily.davis@example.com,Bachelor,Designer,4200
+EM-0005,Michael Brown,22/08/1982,Male,078945612345,0789456123,michael.brown@example.com,Master,Consultant,4800
+EM-0006,Sarah Wilson,05/11/1991,Female,065498732123,09871234567,sarah.wilson@example.com,PhD,Engineer,6000
+EM-0007,David Clark,18/04/1986,Male,096385274156,0909876542,david.clark@example.com,Bachelor,Marketing,4300
+EM-0008,Olivia Martin,29/06/1993,Female,085296374135,01231234567,olivia.martin@example.com,Master,Sales,4600
+EM-0009,William Lee,12/12/1975,Male,014725836912,0987432156,william.lee@example.com,PhD,Operations,5500
+EM-0010,Sophia Walker,08/10/1989,Female,095175385211,09812345678,sophia.walker@example.com,Bachelor,HR,4000

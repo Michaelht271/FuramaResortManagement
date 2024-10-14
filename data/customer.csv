@@ -1,0 +1,21 @@
+Customer ID,Full Name,Birthday,Sex,Citizen Identification,Phone Number,Email,Address,Customer Type
+CU-1234,John Doe,1990-05-15,Male,123456789012,0123456789,john.doe@example.com,123 Main St City,Regular
+CU-1235,Jane Smith,1985-08-22,Female,987654321098,0987654321,jane.smith@example.com,456 Elm St Town,Premium
+CU-1236,Alice Johnson,1992-11-30,Female,456789123456,0912345678,alice.j@example.com,789 Oak St Village,Regular
+CU-1237,Bob Brown,1988-02-14,Male,321654987654,0909876543,bob.brown@example.com,101 Pine St Metropolis,VIP
+CU-1238,Charlie Davis,1995-07-19,Male,654321789012,0898765432,charlie.d@example.com,202 Maple St Hamlet,Regular
+CU-1239,Emily White,1993-03-25,Female,789012345678,0887654321,emily.white@example.com,303 Birch St City,Premium
+CU-1240,Frank Harris,1987-09-10,Male,890123456789,0876543210,frank.harris@example.com,404 Cedar St Town,Regular
+CU-1241,Grace Lee,1991-12-05,Female,901234567890,0865432109,grace.lee@example.com,505 Spruce St Village,VIP
+CU-1242,Henry Clark,1989-06-18,Male,012345678901,0854321098,henry.clark@example.com,606 Willow St Metropolis,Regular
+CU-1243,Irene Lewis,1994-04-22,Female,234567890123,0843210987,irene.lewis@example.com,707 Aspen St Hamlet,Premium
+CU-1244,Jack Walker,1986-11-11,Male,345678901234,0832109876,jack.walker@example.com,808 Maple St City,Regular
+CU-1245,Karen Hall,1990-08-30,Female,456789012345,0821098765,karen.hall@example.com,909 Elm St Town,VIP
+CU-1246,Larry Young,1984-07-07,Male,567890123456,0810987654,larry.young@example.com,1010 Oak St Village,Regular
+CU-1247,Mary King,1996-02-28,Female,678901234567,0809876543,mary.king@example.com,1111 Pine St Metropolis,Premium
+CU-1248,Nick Wright,1993-10-15,Male,789012345678,0798765432,nick.wright@example.com,1212 Birch St Hamlet,Regular
+CU-1249,Olivia Scott,1988-05-20,Female,890123456789,0787654321,olivia.scott@example.com,1313 Cedar St City,VIP
+CU-1250,Paul Green,1991-01-05,Male,901234567890,0776543210,paul.green@example.com,1414 Spruce St Town,Regular
+CU-1251,Quinn Baker,1995-09-25,Female,012345678901,0765432109,quinn.baker@example.com,1515 Willow St Village,Premium
+CU-1252,Rachel Adams,1987-04-12,Female,234567890123,0754321098,rachel.adams@example.com,1616 Aspen St Metropolis,Regular
+CU-1253,Steve Nelson,1992-06-30,Male,345678901234,0743210987,steve.nelson@example.com,1717 Maple St Hamlet,VIP
